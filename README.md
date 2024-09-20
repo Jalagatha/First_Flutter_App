@@ -19,7 +19,7 @@
 5. Clone the repository:
 
 - Open bash
-  Copy link[https://github.com/Jalagatha/First_Flutter_App/tree/main]
+  Copy link[]
 - Navigate to the project directory:
 
 
